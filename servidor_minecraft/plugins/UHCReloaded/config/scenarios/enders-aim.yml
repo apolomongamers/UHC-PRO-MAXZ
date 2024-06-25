@@ -1,0 +1,21 @@
+
+general-settings:
+  enabled: true
+  name: "Ender's Aim"
+  symbol: "◎"
+  color: "0;160;90"
+  description:
+    - "&7A single shot from your bow"
+    - "&7teleports you to your enemy's"
+    - "&7position and vice-versa."
+
+icon-builder:
+  type: ENDER_PEARL
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_ENDERMAN_TELEPORT;1.0;0.0

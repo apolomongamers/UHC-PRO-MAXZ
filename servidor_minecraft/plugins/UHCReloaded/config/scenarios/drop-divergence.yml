@@ -1,0 +1,20 @@
+
+general-settings:
+  enabled: true
+  name: "Drop Divergence"
+  symbol: "⁇"
+  color: "245;255;170"
+  description:
+    - "&7Drops from blocks are"
+    - "&7replaced with random items."
+
+icon-builder:
+  type: HOPPER
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ITEM_TOTEM_USE;1.0;1.0

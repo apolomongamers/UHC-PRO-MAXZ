@@ -1,0 +1,21 @@
+
+general-settings:
+  enabled: true
+  name: "Witchcraft"
+  symbol: "🧪"
+  color: "230;50;255"
+  description:
+    - "&7Unleash the power of unpredictable"
+    - "&7potions with random effects, both"
+    - "&7good and bad."
+
+icon-builder:
+  type: DRAGON_BREATH
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_WITCH_DRINK;1.0;1.0

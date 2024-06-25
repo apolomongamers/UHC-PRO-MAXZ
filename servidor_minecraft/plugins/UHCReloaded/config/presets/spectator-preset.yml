@@ -1,0 +1,13 @@
+
+item-return-to-lobby:
+  item-settings:
+    slot: 8
+    trigger: RETURN_TO_LOBBY
+  meta-builder:
+    name: "&cReturn to the Lobby &7(Right Click)"
+    lore:
+    type: RED_BED
+    amount: 1
+    glow: false
+    model: 0
+    head: ""

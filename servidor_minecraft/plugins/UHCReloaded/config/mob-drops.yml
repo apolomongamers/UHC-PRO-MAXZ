@@ -1,0 +1,13 @@
+
+CREEPER:
+  exp-alteration:
+    alter-exp: false
+    exp-to-drop: 0
+    exp-multiplier: 2
+  remove-drops: true
+  drops-builder:
+    1:
+      type: TNT
+      amount: 1
+      chance: 50
+      apply-enchants:

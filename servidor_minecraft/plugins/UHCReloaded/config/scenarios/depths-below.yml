@@ -1,0 +1,26 @@
+
+general-settings:
+  enabled: true
+  name: "Depths Below"
+  symbol: "👿"
+  color: "0;200;0"
+  description:
+    - "&7The lower you go, the"
+    - "&7more powerful mobs are:"
+    - "&8🔸 &7Y >=60: &aNormal"
+    - "&8🔸 &7Y 50-59: &cx1.2 Damage"
+    - "&8🔸 &7Y 40-49: &cx1.4 Damage"
+    - "&8🔸 &7Y 30-39: &cx1.6 Damage"
+    - "&8🔸 &7Y 20-29: &cx2 Damage"
+    - "&8🔸 &7Y <=10: &cx3 Damage"
+
+icon-builder:
+  type: ZOMBIE_HEAD
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_FIREWORK_ROCKET_LAUNCH;1.0;0.0

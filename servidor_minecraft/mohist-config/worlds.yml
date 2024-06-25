@@ -1,0 +1,17 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    difficulty: HARD
+    seed: 2393373620823535092
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  DIM-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  uhc-game:
+    worldborder: 5.9999968E7
+    difficulty: EASY

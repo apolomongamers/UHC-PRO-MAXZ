@@ -1,0 +1,84 @@
+
+Bronze:
+  symbol: "<#c4a768>"
+  score-required: 150
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4
+
+Silver:
+  symbol: "<#c7c1b1>"
+  score-required: 300
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4
+
+Gold:
+  symbol: "<#ffc21c>"
+  score-required: 450
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4
+
+Platinum:
+  symbol: "<#00ff95>"
+  score-required: 600
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4
+
+Diamond:
+  symbol: "<#38f5ff>"
+  score-required: 750
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4
+
+Master:
+  symbol: "<#be69ff>"
+  score-required: 900
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4
+
+Challenger:
+  symbol: "<#ff6969>"
+  score-required: 1050
+  solo-mode:
+    win-score: 30
+    kill-score: 5
+    death-penalty: -2
+  teams-mode:
+    win-score: 60
+    kill-score: 10
+    death-penalty: -4

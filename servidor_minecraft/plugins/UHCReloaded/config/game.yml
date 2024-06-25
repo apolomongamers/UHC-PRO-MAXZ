@@ -1,0 +1,165 @@
+﻿
+
+game-settings:
+  max-players: 20
+  max-health: 40
+  default-kit: SPELEOLOGIST
+  scenarios:
+    enabled: true
+    force: null
+  start-effects:
+    - "ABSORPTION;3;300"
+    - "SATURATION;3;300"
+    - "FAST_DIGGING;1;300"
+    - "FIRE_RESISTANCE;0;300"
+  deathmatch-effects:
+    - "ABSORPTION;3;30"
+
+
+teams-settings:
+  team-size: 2
+  kick-incomplete: false
+
+
+lobby-settings:
+  lobby-server: false
+
+  default-gamemode: ADVENTURE
+  flying-enabled: true
+
+  players-to-start: 2
+  repeating-start-time: 300
+  max-players-start-time: 50
+
+  players-to-reduce-start-time: 15
+  players-reduced-start-time: 60
+
+
+timers-settings:
+  scenario-delay: 200
+  grace-period: 300
+  dragons-curse: 1920
+  game-end: 2100
+  deathmatch-timer:
+    deathmatch: 1800
+    players-to-reduce-timer: 15
+    players-reduced-timer: 900
+
+timers-end-commands:
+  game-start:
+    - "executed when a game starts"
+  game-end:
+    - "executed when a game ends"
+  grace-period:
+    - "executed when a grace period ends"
+  dragons-curse:
+    - "executed when the dragon's curse starts"
+  deathmatch:
+    - "executed when a deathmatch starts"
+  scenario-activated:
+    - "executed when a scenario activates"
+
+
+consumable-heads-settings:
+  head-name: "&6{PLAYER}'s Head &6(Right Click)"
+  solo-mode:
+    drop-on-death: true
+    apply-effects:
+      - "REGENERATION;2;5"
+      - "SPEED;0;5"
+    consume-messages:
+      - "&aYou ate the head and gained Regen II, Speed I for 5s!"
+  teams-mode:
+    drop-on-death: true
+    share-effects: true
+    apply-effects:
+      - "REGENERATION;2;5"
+      - "SPEED;0;5"
+    consume-messages:
+      - "&aYou ate the head and gained Regen II, Speed I for 5s!"
+    share-messages:
+      - "&aYour teammate ate the head and gave you Regen II, Speed I for 5s!"
+
+
+gary-the-keeper-settings:
+  enabled: true
+  drop-items: true
+  duration: 30
+  name: "&c{PLAYER}"
+
+
+bungee-settings:
+  fallback-server: "lobby"
+  restart-command: "restart"
+  lobby-cooldown: 3
+  lobby-cooldown-message:
+    - "§cPlease wait a moment before doing this again!"
+
+
+economy-settings:
+  gold-for-kill: 50
+  gold-for-win: 500
+  gold-for-playtime:
+    playtime-threshold: 120
+    grace-period-gold: 5
+    after-grace-period-gold: 10
+    deathmatch-gold: 15
+  win-commands:
+    - ""
+
+
+border-settings:
+  game-world:
+    border-enabled: true
+    maximum-size: 1000.0
+    minimum-size: 40.0
+
+    shrinking-enabled: true
+    shrink-value: 1
+    shrink-rate: 4
+
+    damage-period: 1
+    outside-damage: 1.0
+
+    warning-distance: 25
+    warning-time: 10
+  deathmatch-world:
+    border-enabled: true
+    maximum-size: 40.0
+
+
+worlds-settings:
+  lobby-world:
+    apply-rules:
+      - naturalRegeneration;false
+      - doWeatherCycle;false
+      - doDaylightCycle;false
+      - doMobSpawning;false
+  game-world:
+    day-night-cycle-speed:
+      during-day: 2
+      during-night: 10
+    seeds-map:
+      - "12345"
+      - "67890"
+    apply-rules:
+      - naturalRegeneration;false
+      - doWeatherCycle;false
+      - doDaylightCycle;false
+  deathmatch-world:
+    day-night-cycle-speed:
+      during-day: 20
+      during-night: 50
+    apply-rules:
+      - naturalRegeneration;false
+      - doWeatherCycle;false
+      - doDaylightCycle;false
+
+
+
+motd-settings:
+  state-waiting: "&aUHCReloaded &7by xeRicker\n&eWaiting for players ⏳"
+  state-starting: "&aUHCReloaded &7by xeRicker\n&6The game is starting ⏳"
+  state-in-game: "&aUHCReloaded &7by xeRicker\n&cIn progress &7| &eJoin to spectate!"
+  state-restarting: "&aUHCReloaded &7by xeRicker\n&7Restarting the game ⏳"
+  state-loading: "&aUHCReloaded &7by xeRicker\n&7Loading the game ⏳"

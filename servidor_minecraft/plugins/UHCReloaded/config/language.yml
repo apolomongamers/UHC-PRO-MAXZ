@@ -1,0 +1,118 @@
+general-messages:
+  no-permission:
+    - "&7[&6UHCR&7]: &c¡No tienes el permiso adecuado!"
+  must-be-player:
+    - "&7[&6UHCR&7]: &c¡Debes ser un jugador!"
+  player-not-found:
+    - "&7[&6UHCR&7]: &c¡No se pudo encontrar al jugador!"
+  players-not-found:
+    - "&7[&6UHCR&7]: &c¡No se pudo encontrar a otros jugadores!"
+  not-enough-coins:
+    - "&7[&6UHCR&7]: &c¡No tienes suficientes monedas!"
+  syncing-data:
+    - "&7[&6UHCR&7]: &c¡Por favor, espera un momento antes de hacer esto!"
+
+lobby-messages:
+  player-join:
+    - "&a{PLAYER} &ese unió al juego (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ese cavó con una pala de diamante (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &enació con un pico y una sonrisa (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &eaterrizó, Perla de Ender en mano (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ese teletransportó como un Enderman (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &esurgió de las minas, listo para la batalla (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &eroló un 20 natural, encontró diamantes (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ese transportó como un explorador espacial (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ese teletransportó con emoción (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ellegó tarde, equipo encantado (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &esurfeó en una balsa por una cascada (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ecayó como un superhéroe (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ese sumergió en la fiesta con pociones (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ese teletransportó como un mago (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &edescendió con elytra (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &ehizo un tonel con el arco en llamas (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &einició sesión; la aventura comienza (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+    - "&a{PLAYER} &esurgió, listo para dominar (&b{CURRENT_PLAYERS}&7/{MAX_PLAYERS}&e)"
+  player-quit:
+    - "&c{PLAYER} &edejó el juego!"
+    - "&c{PLAYER} &ese desconectó, su leyenda vive!"
+    - "&c{PLAYER} &edesapareció en el reino digital!"
+    - "&c{PLAYER} &ese despidió del campo de batalla pixelado!"
+    - "&c{PLAYER} &enavegó lejos, dejando recuerdos a su paso!"
+    - "&c{PLAYER} &edesapareció como un fantasma en el vacío!"
+    - "&c{PLAYER} &ese deslizó en las sombras, sin dejar rastro!"
+    - "&c{PLAYER} &evoló en alas de píxeles!"
+    - "&c{PLAYER} &ese retiró con gracia, saliendo en silencio!"
+    - "&c{PLAYER} &ese desvaneció en la noche, dejando su huella en el servidor!"
+    - "&c{PLAYER} &ecaminó hacia el atardecer, dejando solo ecos!"
+    - "&c{PLAYER} &ese evaporó como agua en el Nether!"
+    - "&c{PLAYER} &edesapareció como el acto final de un mago!"
+    - "&c{PLAYER} &edesenchufó, dejando el reino virtual!"
+    - "&c{PLAYER} &ecerró sesión, pero los recuerdos permanecen!"
+    - "&c{PLAYER} &ese retiró al menú, un guerrero veterano!"
+    - "&c{PLAYER} &ese deslizó por las grietas del servidor!"
+    - "&c{PLAYER} &evagó por la naturaleza digital!"
+    - "&c{PLAYER} &edesapareció como humo en el viento!"
+    - "&c{PLAYER} &esaltó en el abismo sin conexión!"
+
+game-messages:
+  player-kill:
+    by-enemy:
+      - "&c{VICTIM} fue asesinado por {ATTACKER}!"
+    by-environment:
+      - "&c{VICTIM} fue asesinado por {ATTACKER}!"
+  recipes:
+    available:
+      - "&e¡Tienes todos los elementos para &f{RECIPE_NAME}&e!"
+    crafted:
+      - "&e¡Has creado &f{RECIPE_NAME}&e! (&b{RECIPE_CURRENT_CRAFTS}&7/{RECIPE_MAX_CRAFTS}&e)"
+  scenarios:
+    left-bracket: "&6["
+    right-bracket: "]"
+    choosing-title: "ESCENARIO\n¡Se está eligiendo un escenario!"
+  game-start:
+    - "&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+    - ""
+    - "%center%&f&lUHCReloaded"
+    - ""
+    - "&8🔸 &e10 minutos de Periodo de Gracia"
+    - "&8🔸 &eSobrevive y recolecta suministros"
+    - "&8🔸 &eElimina enemigos y prospera"
+    - "&8🔸 &eEl último hombre/equipo en pie gana"
+    - ""
+    - "&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+  game-end:
+    solo:
+        - "&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        - ""
+        - "%center%&f&lUHCReloaded"
+        - ""
+        - "%center%&eGanador &7- {WINNER}"
+        - ""
+        - "%center%&e1er Lugar &7- {[1]_PLACE_NAME} &7- &c⚔{[1]_PLACE_KILLS}"
+        - "%center%&62do Lugar &7- {[2]_PLACE_NAME} &7- &c⚔{[2]_PLACE_KILLS}"
+        - "%center%&c3er Lugar &7- {[3]_PLACE_NAME} &7- &c⚔{[3]_PLACE_KILLS}"
+        - ""
+        - "&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+    teams:
+        - "&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        - ""
+        - "%center%&f&lUHCReloaded"
+        - ""
+        - "%center%&eGanadores"
+        - "%center%&7{WINNERS}"
+        - ""
+        - "%center%&e1er Asesino &7- {[1]_PLACE_NAME} &7- &c⚔{[1]_PLACE_KILLS}"
+        - "%center%&62do Asesino &7- {[2]_PLACE_NAME} &7- &c⚔{[2]_PLACE_KILLS}"
+        - "%center%&c3er Asesino &7- {[3]_PLACE_NAME} &7- &c⚔{[3]_PLACE_KILLS}"
+        - ""
+        - "&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+
+player-death-messages:
+  PLAYER:
+    - "&c{VICTIM} fue asesinado por {ATTACKER}!"
+  BLOCK_EXPLOSION:
+    - "&c{VICTIM} abrazó un bloque explosivo demasiado fuerte!"
+  CONTACT:
+    - "&c{VICTIM} se puso demasiado cómodo con un cactus y se pinchó!"
+  DRAGON_BREATH:
+    - "&

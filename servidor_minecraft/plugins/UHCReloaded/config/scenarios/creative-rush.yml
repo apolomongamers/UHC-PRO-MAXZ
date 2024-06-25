@@ -1,0 +1,20 @@
+
+general-settings:
+  enabled: true
+  name: "Creative Rush"
+  symbol: "🛒"
+  color: "170;170;170"
+  description:
+    - "&7All players get access to"
+    - "&7creative mode for 20 seconds."
+
+icon-builder:
+  type: CHEST
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - BLOCK_CHEST_OPEN;1.0;0.0

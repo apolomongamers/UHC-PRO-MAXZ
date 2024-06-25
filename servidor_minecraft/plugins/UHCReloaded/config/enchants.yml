@@ -1,0 +1,146 @@
+
+THUNDERING_STRIKE:
+  name: "&d🌟 Thundering Strike"
+  description:
+    - "   &7Attacking an enemy strikes lightning"
+    - "   &7at their location dealing 6 damage."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+    cooldown: 10
+    damage: 6
+
+KRAKEN_SLAYER:
+  name: "&d🌟 Kraken Slayer"
+  description:
+    - "   &7Attacking an enemy 3 times marks"
+    - "   &7them. Attacks against marked"
+    - "   &7enemies deal 5% increased damage."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+    stacks-required: 3
+
+
+ARROW_STORM:
+  name: "&d🌟 Arrow Storm"
+  description:
+    - "   &7Arrows that collide with terrain"
+    - "   &7cause an arrow storm to spawn."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+    arrows: 5
+    period: 2
+
+BRANCHING_VOLLEYS:
+  name: "&d🌟 Branching Volleys"
+  description:
+    - "   &7Whenever your arrows damage"
+    - "   &7an enemy, 2 arrows split off"
+    - "   &7to either side."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+
+
+KNIGHTS_RESILIENCE:
+  name: "&d🌟 Knight's Resilience"
+  description:
+    - "   &7Gain 5% damage reduction for"
+    - "   &7each enemy near you, up to 40%."
+  active-slots:
+    - HEAD
+    - CHEST
+    - LEGS
+    - FEET
+  settings:
+    unique: true
+    damage-reduction: 20
+
+COLOSSAL_SKIN:
+  name: "&d🌟 Colossal Skin"
+  description:
+    - "   &7Gain up to 20% damage reduction"
+    - "   &7based on your missing health."
+  active-slots:
+    - HEAD
+    - CHEST
+    - LEGS
+    - FEET
+  settings:
+    unique: true
+    damage-reduction: 5
+    maximum-reduction: 40
+
+LIFELINE:
+  name: "&d🌟 Lifeline"
+  description:
+    - "   &7Taking damage while having less than"
+    - "   &750% HP grants you Absorption V for 5s."
+  active-slots:
+    - HEAD
+    - CHEST
+    - LEGS
+    - FEET
+  settings:
+    unique: true
+    cooldown: 5
+    health-threshold: 50
+    apply-effects:
+      - "ABSORPTION;5;5"
+  activation:
+    actionbar: "&6★ Lifeline &a➲ &eAbsorption V &7for &b5s"
+    messages:
+    sounds:
+
+
+TREE_CUTTER:
+  name: "&d🌟 Tree Cutter"
+  description:
+    - "   &7Cuts down entire trees."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+  activation:
+    actionbar: "&d🌟 Tree Cutter"
+    messages:
+    sounds:
+
+TELEKINESIS:
+  name: "&d🌟 Telekinesis"
+  description:
+    - "   &7Drops go directly to your inventory."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+  activation:
+    actionbar: "&d🌟 Telekinesis"
+    messages:
+    sounds:
+
+SMELTING_TOUCH:
+  name: "&d🌟 Smelting Touch"
+  description:
+    - "   &7Automatically smelts mined blocks."
+  active-slots:
+    - HAND
+    - OFF_HAND
+  settings:
+    unique: true
+  activation:
+    actionbar: "&d🌟 Smelting Touch"
+    messages:
+    sounds:

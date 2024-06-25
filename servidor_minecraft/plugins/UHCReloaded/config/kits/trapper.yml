@@ -1,0 +1,54 @@
+
+general-settings:
+  enabled: true
+  unique: false
+  name: "Trapper"
+  description:
+    - ""
+    - "{ITEM_LIST}"
+
+icon-builder:
+  type: PISTON
+  glow: false
+  amount: 1
+  durability: 0
+  model: 0
+  head: ""
+
+unlock-settings:
+  coins-cost: 100
+  unlocked-by-default: false
+
+equipment-builder:
+  0:
+    name: "&aPiston"
+    type: PISTON
+    amount: 6
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  1:
+    name: "&aSticky Piston"
+    type: STICKY_PISTON
+    amount: 6
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  2:
+    name: "&aRedstone"
+    type: REDSTONE
+    amount: 20
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  3:
+    name: "&aOak Log"
+    type: OAK_LOG
+    amount: 12
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:

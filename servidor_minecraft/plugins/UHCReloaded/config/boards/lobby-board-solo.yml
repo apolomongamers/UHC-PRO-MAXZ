@@ -1,0 +1,34 @@
+
+board-settings:
+  board-title: "&e&lUHCRELOADED"
+  board-refresh-rate: 20
+
+placeholder-settings:
+  kit-placeholders:
+    kit-selected: "&a{CHOSEN_KIT}"
+    kit-not-selected: "&7None"
+
+waiting-board:
+  - ""
+  - "{TITLE_SYMBOL}[{TITLE_NAME}]"
+  - "Score: &a{STATISTIC_SCORE}"
+  - ""
+  - "Players: &a{PLAYERS}/{MAX_PLAYERS}"
+  - ""
+  - "Starting in &a{TIME_UNTIL_START} &rif"
+  - "&a{PLAYERS_UNTIL_START} &rmore players join"
+  - ""
+  - "Mode: &6&lSolo"
+
+starting-board:
+  - ""
+  - "{TITLE_SYMBOL}[{TITLE_NAME}]"
+  - "Score: &a{STATISTIC_SCORE}"
+  - ""
+  - "Players: &a{PLAYERS}/{MAX_PLAYERS}"
+  - ""
+  - "Starting in &a{TIME_UNTIL_START} &rto"
+  - "allow time for"
+  - "additional players"
+  - ""
+  - "Mode: &6&lSolo"

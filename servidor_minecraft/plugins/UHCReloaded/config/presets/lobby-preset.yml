@@ -1,0 +1,65 @@
+
+item-kits:
+  item-settings:
+    slot: 0
+    trigger: OPEN_KITS
+  meta-builder:
+    name: "&aKits &7(Right Click)"
+    lore:
+    type: BOW
+    amount: 1
+    glow: false
+    mode: 0
+    head: ""
+
+item-scenarios:
+  item-settings:
+    slot: 1
+    trigger: OPEN_SCENARIOS
+  meta-builder:
+    name: "&aScenarios &7(Right Click)"
+    lore:
+    type: BOOK
+    amount: 1
+    glow: false
+    mode: 0
+    head: "custom->https://textures.minecraft.net/texture/879e54cbe87867d14b2fbdf3f1870894352048dfecd962846dea893b2154c85"
+
+item-recipes:
+  item-settings:
+    slot: 4
+    trigger: OPEN_RECIPES
+  meta-builder:
+    name: "&aRecipes &7(Right Click)"
+    lore:
+    type: ENCHANTED_BOOK
+    amount: 1
+    glow: false
+    mode: 0
+    head: ""
+
+item-statistics:
+  item-settings:
+    slot: 7
+    trigger: OPEN_STATISTICS
+  meta-builder:
+    name: "&aStatistics &7(Right Click)"
+    lore:
+    type: BOOK
+    amount: 1
+    glow: false
+    mode: 0
+    head: "player->{PLAYER}"
+
+item-return-to-lobby:
+  item-settings:
+    slot: 8
+    trigger: RETURN_TO_LOBBY
+  meta-builder:
+    name: "&cReturn to the Lobby &7(Right Click)"
+    lore:
+    type: RED_BED
+    amount: 1
+    glow: false
+    mode: 0
+    head: ""

@@ -1,0 +1,23 @@
+
+general-settings:
+  enabled: true
+  name: "Clean Begone"
+  symbol: "🛒"
+  color: "170;170;170"
+  description:
+    - "&7After you kill a player,"
+    - "&7other players can't attack"
+    - "&7you for 20 seconds."
+    - "&7This effect expires when"
+    - "&7you attack another player."
+
+icon-builder:
+  type: CHEST
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - BLOCK_CHEST_OPEN;1.0;0.0

@@ -1,0 +1,19 @@
+
+general-settings:
+  enabled: true
+  name: "Bombastic"
+  symbol: "💣"
+  color: "255;110;5"
+  description:
+    - "&7Explosions are more powerful."
+
+icon-builder:
+  type: TNT
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_GENERIC_EXPLODE;1.0;1.0

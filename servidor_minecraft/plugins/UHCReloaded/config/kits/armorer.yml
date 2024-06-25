@@ -1,0 +1,58 @@
+
+general-settings:
+  enabled: true
+  unique: false
+  name: "Armorer"
+  description:
+    - ""
+    - "{ITEM_LIST}"
+
+icon-builder:
+  type: LEATHER_CHESTPLATE
+  glow: false
+  amount: 1
+  durability: 0
+  model: 0
+  head: ""
+
+unlock-settings:
+  coins-cost: 100
+  unlocked-by-default: false
+
+equipment-builder:
+  0:
+    name: "&aLeather Helmet"
+    type: LEATHER_HELMET
+    amount: 1
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+      - "PROTECTION_ENVIRONMENTAL;1"
+  1:
+    name: "&aLeather Chestplate"
+    type: LEATHER_CHESTPLATE
+    amount: 1
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+      - "PROTECTION_ENVIRONMENTAL;1"
+  2:
+    name: "&aLeather Leggings"
+    type: LEATHER_LEGGINGS
+    amount: 1
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+      - "PROTECTION_ENVIRONMENTAL;1"
+  3:
+    name: "&aLeather Boots"
+    type: LEATHER_BOOTS
+    amount: 1
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+      - "PROTECTION_ENVIRONMENTAL;1"

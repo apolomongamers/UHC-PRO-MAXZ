@@ -1,0 +1,172 @@
+
+menu-settings:
+  menu-rows: 6
+
+title-settings:
+  menu-title: "Kits"
+  with-pages-title: "Kits (Page: {PAGE})"
+
+layout-settings:
+  kit-layout:
+    - "O O O O O O O O O"
+    - "O O X X X X X O O"
+    - "O O X X X X X O O"
+    - "O O X X X X X O O"
+    - "O O O O O O O O O"
+    - "O O O O O O O O O"
+
+placeholder-settings:
+  item-placeholder:
+    item-single: "&8🔸 &7{ITEM_TYPE}"
+    item-multiple: "&8🔸 &7{ITEM_TYPE} &8x{ITEM_AMOUNT}"
+    item-enchant: "   &d🌟 {ENCHANT_TYPE} {ENCHANT_LEVEL}"
+    item-durability: "   &c⛏ &8{DURABILITY_CURRENT}/{DURABILITY_MAX} uses"
+
+item-builder:
+  item-kit-selected:
+    item-settings:
+      trigger: KIT_SELECTED
+      commands:
+    meta-builder:
+      name: "&a{KIT_NAME}"
+      lore:
+        - "{KIT_DESCRIPTION}"
+        - ""
+        - "&a✔ Selected!"
+  item-kit-click-to-select:
+    item-settings:
+      trigger: KIT_CLICK_TO_SELECT
+      commands:
+    meta-builder:
+      name: "&e{KIT_NAME}"
+      lore:
+        - "{KIT_DESCRIPTION}"
+        - ""
+        - "&e🡪 Click to select!"
+  item-kit-click-to-unlock:
+    item-settings:
+      trigger: KIT_CLICK_TO_UNLOCK
+      commands:
+    meta-builder:
+      name: "&6{KIT_NAME}"
+      lore:
+        - "{KIT_DESCRIPTION}"
+        - ""
+        - "&6🡪 Click to unlock: &a{KIT_COINS_REQUIRED} Coins"
+  item-kit-not-enough-coins:
+    item-settings:
+      trigger: KIT_NOT_ENOUGH_COINS
+      commands:
+    meta-builder:
+      name: "&c{KIT_NAME}"
+      lore:
+        - "{KIT_DESCRIPTION}"
+        - ""
+        - "&c✖ Requires {KIT_COINS_REQUIRED} Coins"
+  item-kit-no-permission:
+    item-settings:
+      trigger: KIT_NO_PERMISSION
+      commands:
+    meta-builder:
+      name: "&c{KIT_NAME}"
+      lore:
+        - "{KIT_DESCRIPTION}"
+        - ""
+        - "&c✖ No permission!"
+  filter-all:
+    item-settings:
+      slot: 48
+      trigger: FILTER_ALL
+      commands:
+    meta-builder:
+      name: "&a⬛ All"
+      lore:
+        - "&7⬜ Owned"
+        - "&7⬜ Unowned"
+      type: HOPPER
+      amount: 1
+      glow: false
+      model: 0
+      head: ""
+  filter-owned:
+    item-settings:
+      slot: 48
+      trigger: FILTER_OWNED
+      commands:
+    meta-builder:
+      name: "&7⬜ All"
+      lore:
+        - "&a⬛ Owned"
+        - "&7⬜ Unowned"
+      type: HOPPER
+      amount: 1
+      glow: false
+      model: 0
+      head: ""
+  filter-unowned:
+    item-settings:
+      slot: 48
+      trigger: FILTER_UNOWNED
+      commands:
+    meta-builder:
+      name: "&7⬜ All"
+      lore:
+        - "&7⬜ Owned"
+        - "&a⬛ Unowned"
+      type: HOPPER
+      amount: 1
+      glow: false
+      model: 0
+      head: ""
+  previous-page:
+    item-settings:
+      slot: 45
+      trigger: PREVIOUS_PAGE
+      commands:
+    meta-builder:
+      name: "&aPrevious Page"
+      lore:
+      type: ARROW
+      amount: 1
+      glow: false
+      model: 0
+      head: ""
+  next-page:
+    item-settings:
+      slot: 53
+      trigger: NEXT_PAGE
+      commands:
+    meta-builder:
+      name: "&aNext Page"
+      lore:
+      type: ARROW
+      amount: 1
+      glow: false
+      model: 0
+      head: ""
+  your-balance:
+    item-settings:
+      slot: 50
+      commands:
+    meta-builder:
+      name: "&7Current Balance:"
+      lore:
+        - "&6{STATISTIC_COINS} Coins"
+      type: GLOWSTONE_DUST
+      amount: 1
+      glow: false
+      model: 0
+      head: ""
+  close-menu:
+    item-settings:
+      slot: 49
+      trigger: CLOSE_MENU
+      commands:
+    meta-builder:
+      name: "&aClose"
+      lore:
+      type: BARRIER
+      amount: 1
+      glow: false
+      model: 0
+      head: ""

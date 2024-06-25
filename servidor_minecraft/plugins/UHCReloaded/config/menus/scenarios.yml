@@ -1,0 +1,68 @@
+
+menu-settings:
+  menu-rows: 6
+
+title-settings:
+  menu-title: "Scenarios"
+  with-pages-title: "Scenarios (Page: {PAGE})"
+
+layout-settings:
+  scenario-layout:
+    - "O O O O O O O O O"
+    - "O X X X X X X X O"
+    - "O X X X X X X X O"
+    - "O X X X X X X X O"
+    - "O O O O O O O O O"
+    - "O O O O O O O O O"
+
+item-builder:
+  item-scenario-click-to-vote:
+    item-settings:
+      trigger: SCENARIO_CLICK_TO_VOTE
+      commands:
+    meta-builder:
+      name: "{SCENARIO_COLOR}[{SCENARIO_SYMBOL}] {SCENARIO_NAME}"
+      lore:
+        - ""
+        - "{SCENARIO_DESCRIPTION}"
+        - ""
+        - "&7Current Votes: &b🕬{CURRENT_VOTES}"
+        - "&8{VOTED_PERCENT}% of players voted."
+        - ""
+        - "&e🡪 Click to vote for this!"
+  item-scenario-already-voted:
+    item-settings:
+      trigger: SCENARIO_ALREADY_VOTED
+      commands:
+    meta-builder:
+      name: "{SCENARIO_COLOR}[{SCENARIO_SYMBOL}] {SCENARIO_NAME}"
+      lore:
+        - ""
+        - "{SCENARIO_DESCRIPTION}"
+        - ""
+        - "&7Current Votes: &b🕬{CURRENT_VOTES}"
+        - "&8{VOTED_PERCENT}% of players voted."
+        - ""
+        - "&a✔ You voted for this!"
+  item-scenario-lobby-preview:
+    item-settings:
+      trigger: SCENARIO_LOBBY_PREVIEW
+      commands:
+    meta-builder:
+      name: "{SCENARIO_COLOR}[{SCENARIO_SYMBOL}] {SCENARIO_NAME}"
+      lore:
+        - ""
+        - "{SCENARIO_DESCRIPTION}"
+  close-menu:
+    item-settings:
+      slot: 49
+      trigger: CLOSE_MENU
+      commands:
+    meta-builder:
+      name: "&aClose"
+      lore:
+      type: BARRIER
+      amount: 1
+      glow: false
+      model: 0
+      head: ""

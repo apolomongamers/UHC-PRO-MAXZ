@@ -1,0 +1,46 @@
+
+general-settings:
+  enabled: true
+  unique: false
+  name: "Horsetamer"
+  description:
+    - ""
+    - "{ITEM_LIST}"
+
+icon-builder:
+  type: SADDLE
+  glow: false
+  amount: 1
+  durability: 0
+  model: 0
+  head: ""
+
+unlock-settings:
+  coins-cost: 100
+  unlocked-by-default: false
+
+equipment-builder:
+  0:
+    name: "&aLeather"
+    type: LEATHER
+    amount: 9
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  1:
+    name: "&aWheat"
+    type: WHEAT
+    amount: 7
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  2:
+    name: "&aString"
+    type: STRING
+    amount: 3
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:

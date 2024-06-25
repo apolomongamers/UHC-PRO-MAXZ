@@ -1,0 +1,20 @@
+
+general-settings:
+  enabled: true
+  name: "Mystery Omelette"
+  symbol: "🥚"
+  color: "255;230;170"
+  description:
+    - "&7Throwing eggs spawns random,"
+    - "&7non-boss hostile mobs."
+
+icon-builder:
+  type: EGG
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_CHICKEN_HURT;1.0;0.0

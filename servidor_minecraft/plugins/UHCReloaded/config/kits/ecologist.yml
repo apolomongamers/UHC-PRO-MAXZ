@@ -1,0 +1,46 @@
+
+general-settings:
+  enabled: true
+  unique: false
+  name: "Ecologist"
+  description:
+    - ""
+    - "{ITEM_LIST}"
+
+icon-builder:
+  type: SUGAR_CANE
+  glow: false
+  amount: 1
+  durability: 0
+  model: 0
+  head: ""
+
+unlock-settings:
+  coins-cost: 100
+  unlocked-by-default: false
+
+equipment-builder:
+  0:
+    name: "&aVine"
+    type: VINE
+    amount: 18
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  1:
+    name: "&aLily Pad"
+    type: LILY_PAD
+    amount: 32
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:
+  2:
+    name: "&aSugar Cane"
+    type: SUGAR_CANE
+    amount: 8
+    durability: 0
+    apply-tags:
+      - "key;value"
+    apply-enchants:

@@ -1,0 +1,13 @@
+
+item-recipes:
+  item-settings:
+    slot: 8
+    trigger: OPEN_RECIPES
+  meta-builder:
+    name: "&aRecipes &7(Right Click)"
+    lore:
+    type: ENCHANTED_BOOK
+    amount: 1
+    glow: false
+    player-head: ""
+    custom-head: ""

@@ -1,0 +1,36 @@
+
+item-settings:
+  name: "&6Gargoyle Stoneplate"
+  lore:
+    - ""
+    - "&8&o\"Embrace the stoic whispers"
+    - "&8&oof protection. Amid comrades,"
+    - "&8&oa shield woven in unity unfolds.\""
+  type: GOLDEN_CHESTPLATE
+  amount: 1
+  durability: 0
+  model: 0
+  head: ""
+
+unlock-settings:
+  coins-cost: 100
+  unlocked-by-default: false
+
+recipe-settings:
+  max-crafts: 1
+  recipe-layout:
+    - "G O G"
+    - "G A G"
+    - "G G G"
+  recipe-ingredients:
+    - "G;GOLD_INGOT"
+    - "A;GOLDEN_APPLE"
+  recipe-choices:
+    - "OAK_WOOD,SPRUCE_WOOD,BIRCH_WOOD,JUNGLE_WOOD,ACACIA_WOOD,DARK_OAK_WOOD,MANGROVE_WOOD"
+    - "OAK_PLANKS,SPRUCE_PLANKS,BIRCH_PLANKS,JUNGLE_PLANKS,ACACIA_PLANKS,DARK_OAK_PLANKS,MANGROVE_PLANKS,CRIMSON_PLANKS,WARPED_PLANKS"
+
+data-settings:
+  apply-tags:
+    - "key;value"
+  apply-enchants:
+    - COLOSSAL_SKIN

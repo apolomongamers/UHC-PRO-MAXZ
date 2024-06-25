@@ -1,0 +1,36 @@
+
+item-settings:
+  name: "&6Turbo Chemtank"
+  lore:
+    - ""
+    - "&8&o\"Feel, seeker, the heartbeat of resilience,"
+    - "&8&opulsating in the storm's grasp. A shield"
+    - "&8&ounfurls, a sanctuary amid thunderous chaos.\""
+  type: GOLDEN_HELMET
+  amount: 1
+  durability: 0
+  model: 0
+  head: ""
+
+unlock-settings:
+  coins-cost: 100
+  unlocked-by-default: false
+
+recipe-settings:
+  max-crafts: 1
+  recipe-layout:
+    - "O O O"
+    - "G G G"
+    - "G B G"
+  recipe-ingredients:
+    - "G;GOLD_INGOT"
+    - "B;GLASS_BOTTLE"
+  recipe-choices:
+    - "OAK_WOOD,SPRUCE_WOOD,BIRCH_WOOD,JUNGLE_WOOD,ACACIA_WOOD,DARK_OAK_WOOD,MANGROVE_WOOD"
+    - "OAK_PLANKS,SPRUCE_PLANKS,BIRCH_PLANKS,JUNGLE_PLANKS,ACACIA_PLANKS,DARK_OAK_PLANKS,MANGROVE_PLANKS,CRIMSON_PLANKS,WARPED_PLANKS"
+
+data-settings:
+  apply-tags:
+    - "key;value"
+  apply-enchants:
+    - LIFELINE

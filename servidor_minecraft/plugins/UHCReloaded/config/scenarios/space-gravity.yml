@@ -1,0 +1,20 @@
+
+general-settings:
+  enabled: true
+  name: "Space Gravity"
+  symbol: "🌍"
+  color: "170;170;170"
+  description:
+    - "&7Gain permanent Levitation"
+    - "&7and Jump boost V effects."
+
+icon-builder:
+  type: GLASS
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_FIREWORK_ROCKET_LAUNCH;1.0;0.0

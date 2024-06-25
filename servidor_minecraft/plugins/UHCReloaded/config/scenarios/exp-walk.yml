@@ -1,0 +1,20 @@
+
+general-settings:
+  enabled: true
+  name: "Exp Walk"
+  symbol: "🥾"
+  color: "130;230;5"
+  description:
+    - "&7As you explore the world,"
+    - "&7gain experience and level up."
+
+icon-builder:
+  type: EXPERIENCE_BOTTLE
+  glow: false
+  amount: 1
+  model: 0
+  head: ""
+
+vote-settings:
+  vote-sounds:
+    - ENTITY_PLAYER_LEVELUP;1.0;1.0
