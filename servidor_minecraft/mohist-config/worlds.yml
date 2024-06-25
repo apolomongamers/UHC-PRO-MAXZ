@@ -15,3 +15,9 @@ worlds:
   uhc-game:
     worldborder: 5.9999968E7
     difficulty: EASY
+  15758cfd-6d4a-4293-9519-d4637d8a0995:
+    worldborder: 1000.0
+    difficulty: HARD
+  f90687f9-d539-48f1-a662-1efc9b409946:
+    worldborder: 500.0
+    difficulty: HARD

@@ -1,0 +1,79 @@
+cutclean:
+  # Set to false to disable unlimited lapis in CutClean
+  unlimited-lapis: true
+  check-correct-tool: false
+fast_leaves_decay:
+  # Time to decay leaves in ticks.
+  time-decay: 5
+timebomb:
+  # Time between killing of players.
+  delay: 30
+  # The explosion power of the Timebomb chest.
+  # For reference, the explosion power of TNT is 4.
+  # Consult the Minecraft Wiki for more details.
+  explosion-power: 10
+best_pve:
+  delay: 600
+team_inventory:
+  # Should the team inventory be dropped when the last player on a team is eliminated?
+  drop-on-team-elimination: false
+no_clean:
+  # Time players are invulnerable for.
+  duration: 30
+sky_high:
+  # Time before first damage.
+  time-before-start: 1800
+  # Time between damaging players after first damage.
+  time-between-damage: 30
+  # Y-layer where below players take damage.
+  y-layer: 120
+fast_smelting:
+  # Smelting speed, high number = faster smelting.
+  speed: 10
+weakest_link:
+  delay: 600
+love_at_first_sight:
+  # Set to true if you want to disable the broadcasts when teams are created.
+  disable-broadcasts: false
+  # Controls the maximum team size in the Love at First Sight scenario,
+  # which will override the max-players-per-team setting from config.yml
+  # when the scenario is enabled. If set to -1, the scenario will instead use
+  # the max-players-per-team setting from config.yml as the maximum team size.
+  max-players-per-team: -1
+lucky_leaves:
+  # The chance (where 1 is 100%) that a golden apple drops when a leaf block is decayed.
+  golden-apple-drop-chance: 0.005
+achievement_hunter:
+  # Amount of health players start with. (1 heart = 2 health)
+  health-at-start: 10
+  # Amount of health added per achievement.
+  health-added: 1
+hastey_boys:
+  # Level of Efficiency enchantment.
+  efficiency: 3
+  # Level of Durability enchantment.
+  durability: 1
+  # Set to true if crafting wooden tools should create stone tools instead.
+  stone-tools: false
+  # If false, players will be prevented from using a Grindstone to disenchant
+  # tools that were crafted using Hastey Boys.
+  allow-disenchanting: false
+timber:
+  # If true, item damage will be applied to the axe used to fell the tree.
+  calculate-axe-damage: true
+  # If true, Timber will only be active while the player uses an axe for chopping.
+  require-axe: true
+  # If true, the tree will drop 4 planks instead of a log, for each log block.
+  drop-planks: false
+  # The maximum tree size to process, in number of log blocks (to avoid overloading the server).
+  log-break-limit: 1000
+dragon_rush:
+  # The number of attempts to make at placing eyes in the end portal.
+  eye-attempts: 12
+  # The probability (where 1 is 100%) of an eye being placed during each attempt.
+  eye-probability: 0.34
+vein_miner:
+  # If true, item damage will be applied to the pickaxe used to mine the vein.
+  calculate-tool-damage: true
+  # If true, Vein Miner will only be active while the player is sneaking.
+  require-sneaking: true
