@@ -141,6 +141,8 @@ world-settings:
     trident-despawn-rate: 1200
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
+  worldeditregentempworld:
+    verbose: false
 config-version: 12
 stats:
   disable-saving: false
