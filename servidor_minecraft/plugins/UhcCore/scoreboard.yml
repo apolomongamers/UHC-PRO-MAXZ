@@ -1,81 +1,82 @@
-# TIP: El marcador puede soportar un máximo de 15 líneas.
+# TIP: Scoreboard can support a maximum of 15 lines!
 
-# Marcadores de posición
-# Solo cuando el juego ha comenzado:
-#  %deathmatch% = Tiempo hasta el deathmatch.
-#  %time% = Muestra cuánto tiempo ha durado el juego.
-#  %pvp% = Muestra cuánto tiempo falta antes de que comience el PvP.
-#  %timers% = Muestra uno de los tres temporizadores (PvP, Deathmatch y Border) dependiendo de cuál sea el primero. (Formateado como "nombre: tiempo")
-#  %timer-name% = Muestra el nombre de uno de los tres temporizadores (PvP, Deathmatch y Border) dependiendo de cuál sea el primero.
-#  %timer-time% = Muestra el tiempo de uno de los tres temporizadores (PvP, Deathmatch y Border) dependiendo de cuál sea el primero.
-#  %teamAlive% = Muestra el número de equipos vivos.
-#  %playerSpectator% = Muestra el número de espectadores.
-#  %playerAlive% = Muestra el número de jugadores vivos.
-#  %border% = Muestra el tamaño de la frontera del mundo.
-#  %kills% = Número de muertes que tiene el jugador.
-#  %teamKills% = Número de muertes que tiene el equipo del jugador.
-#  %ylayer% = Muestra la capa y en la que está el jugador.
-#  %xCoordinate% = Muestra la coordenada x de donde está el jugador.
-#  %zCoordinate% = Muestra la coordenada z de donde está el jugador.
-#  %kit% = Nombre del kit que está usando el jugador.
-#  %episode% = Número de episodio.
-#  %nextEpisode% = Tiempo hasta el próximo episodio.
-#  %money% = La cantidad de dinero que tiene un jugador. (¡Asegúrate de tener Vault instalado!)
-#  %members-name% = Alterna entre los miembros de tu equipo.
-#  %members-health% = Muestra la salud del miembro mostrado con '%members-name%'.
-#  %scenarios% = Los escenarios activos.
-# Solo cuando el juego está esperando:
-#  %online% = Muestra el número de jugadores.
-#  %needed% = Muestra el número de jugadores necesarios para comenzar el juego.
-# Cuando el juego ha comenzado o está esperando:
-#  %teamColor% = El color del equipo en la pestaña. (Solo un color, así que necesitas poner texto detrás para que se muestre).
+# Placeholders
+# Only on game started:
+#  %deathmatch% = Time until deathmatch.
+#  %time% = Shows how long the game has been going for.
+#  %pvp% = Shows how long left before PvP starts.
+#  %timers% = Shows one of three timers (PvP, Deathmatch & Border) depending on which one is first. (Formatted as "name: time")
+#  %timer-name% = Shows the name of one of three timers (PvP, Deathmatch & Border) depending on which one is first.
+#  %timer-time% = Shows the time of one of three timers (PvP, Deathmatch & Border) depending on which one is first.
+#  %teamAlive% = Show number of team alive.
+#  %playerSpectator% = Show number of spectator.
+#  %playerAlive% = Show number of player alive.
+#  %border% = Show the size of World Border.
+#  %kills% = Number of kills that the player has.
+#  %teamKills% = Number of kills that the team of the player has.
+#  %ylayer% = Display the y layer where the player is.
+#  %xCoordinate% = Display the x coordinate of where the player is.
+#  %zCoordinate% = Display the z coordinate of where the player is.
+#  %kit% = Name of the kit the player is using.
+#  %episode% = Episode number.
+#  %nextEpisode% = Time until next episode.
+#  %money% = The amount of money a player has. (Make sure you have Vault installed!)
+#  %members-name% = Toggles between the members on your team.
+#  %members-health% = Shows the health of the member shows with '%members-name%'.
+#  %scenarios% = The active scenarios.
+# Only on game waiting:
+#  %online% = Show number of players.
+#  %needed% = Show number of needed players to start the game.
+# On game started or waiting:
+#  %teamColor% = The color of the team on tab. (Only a color so you need to put text behind it inorder for it to show.)
 
-# Título del marcador
+# Title of the scoreboard
 title: '&6&lUhcCore'
 
-# Marcador mientras se espera...
+# Scoreboard while waiting...
 waiting:
   - ''
-  - '&6Jugadores:'
-  - '&a%online% / %needed% Necesarios'
+  - '&6Players:'
+  - '&a%online% / %needed% Needed'
   - ''
-  - '&6Color del equipo:'
+  - '&6Team color:'
   - '&a%teamColor%'
   - ''
   - '&6Kit:'
   - '&a%kit%'
   - ''
-  - '&6Escenarios:'
+  - '&6Scenarios:'
   - '&a%scenarios%'
   - ''
   - '&6IP:'
-  - '&ajugar.ejemplo.com'
+  - '&aplay.example.com'
 
-# Marcador mientras el juego está en curso.
+# Scoreboard while game is playing.
 playing:
-  - '&6Reunión: &a%deathmatch%'
-  - '&6Frontera: &a%border%'
-  - '&6Muertes: &a%kills%'
-  - '&6Jugadores restantes: &a%alive%'
-  - '&6Capa Y: &a%ylayer%'
-  - '&6Equipo:'
+  - '&6Meetup: &a%deathmatch%'
+  - '&6Border: &a%border%'
+  - '&6Kills: &a%kills%'
+  - '&6Players left: &a%alive%'
+  - '&6Y-Layer: &a%ylayer%'
+  - '&6Team:'
   - '&a%members-name% &c%members-health% &lHP'
   - ''
-  - '&ajugar.ejemplo.com'
+  - '&aplay.example.com'
 
-# Marcador mientras el juego está en deathmatch.
+
+# Scoreboard while game is in deathmatch.
 deathmatch:
-  - '&6Frontera: &a%border%'
-  - '&6Muertes: &a%kills%'
-  - '&6Jugadores restantes: &a%alive%'
+  - '&6Border: &a%border%'
+  - '&6Kills: &a%kills%'
+  - '&6Players left: &a%alive%'
   - ''
-  - '&ajugar.ejemplo.com'
+  - '&aplay.example.com'
 
-# Marcador mientras se está en modo espectador.
+# Scoreboard while in spectator
 spectating:
-  - '&6Reunión: &a%deathmatch%'
-  - '&6Frontera: &a%border%'
-  - '&6Muertes: &a%kills%'
-  - '&6Jugadores restantes: &a%alive%'
+  - '&6Meetup: &a%deathmatch%'
+  - '&6Border: &a%border%'
+  - '&6Kills: &a%kills%'
+  - '&6Players left: &a%alive%'
   - ''
-  - '&ajugar.ejemplo.com'
+  - '&aplay.example.com'
