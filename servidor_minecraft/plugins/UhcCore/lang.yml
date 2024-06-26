@@ -177,494 +177,261 @@ scenarios:
   global:
     description-header: '&5%scenario%&7:'
     description-prefix: '&7- '
-    inventory: '&6&lScenarios &7(Click for info)'
-    inventory-edit: '&6&lScenarios &7(Edit)'
-    inventory-vote: '&6&lVote &7(Toggle votes)'
-    item-edit: '&6Edit'
-    item-back: '&6Back'
-    item-next: '&6Next'
-    item-hotbar: '&6Right click to view active scenarios'
+    inventory: '&6&lEscenarios &7(Haz clic para más info)'
+    inventory-edit: '&6&lEscenarios &7(Editar)'
+    inventory-vote: '&6&lVotar &7(Alternar votos)'
+    item-edit: '&6Editar'
+    item-back: '&6Atrás'
+    item-next: '&6Siguiente'
+    item-hotbar: '&6Haz clic derecho para ver los escenarios activos'
     item-color: '&5'
-    item-info: '&7(Right click for info)'
-    vote-max: '&cMax votes reached (%max%)'
-  name: CutClean
-  description:
-  - No se necesitan hornos.
-  - Los minerales y las gotas de animales se funden automáticamente.
-  - La grava siempre deja caer pedernal.
-  - No se necesita lapislázuli para encantar.
+    item-info: '&7(Haz clic derecho para info)'
+    vote-max: '&cVotos máximos alcanzados (%max%)'
   cutclean:
     name: CutClean
     description:
-    - No furnaces required.
-    - Ores and animal drops are automatically smelted.
-    - Gravel always drops flint.
-    - No lapis is needed for enchanting.
+    - No se requieren hornos.
+    - Los minerales y las gotas de animales se funden automáticamente.
+    - La grava siempre deja caer pedernal.
+    - No se necesita lapislázuli para encantar.
   fireless:
     name: Fireless
     description:
-    - You cannot take fire damage.
+    - No puedes recibir daño por fuego.
   bowless:
-    name: Bowless
+    name: Sin Arcos
     description:
-    - You are not able to craft bows.
-    error: '&4[Bowless] &cYou can''t craft bows!'
+    - No puedes fabricar arcos.
+    error: '&4[Sin Arcos] &c¡No puedes fabricar arcos!'
   rodless:
-    name: Rodless
+    name: Sin Cañas
     description:
-    - Fishing rods are not craftable.
-    error: '&4[Rodless] &cYou can''t craft fishing rods!'
+    - No puedes fabricar cañas de pescar.
+    error: '&4[Sin Cañas] &c¡No puedes fabricar cañas de pescar!'
   shieldless:
-    name: Shieldless
+    name: Sin Escudos
     description:
-    - Shields are not craftable.
-    error: '&4[Shieldless] &cYou can''t craft shields!'
+    - No puedes fabricar escudos.
+    error: '&4[Sin Escudos] &c¡No puedes fabricar escudos!'
   blood_diamonds:
-    name: Blood Diamonds
+    name: Diamantes Sangrientos
     description:
-    - When mining a diamond ore, the player will take half a heart of damage.
+    - Al minar un mineral de diamante, el jugador recibirá medio corazón de daño.
   timber:
     name: Timber
     description:
-    - Breaking one log of a tree with an axe will cause the whole tree to fall down.
+    - Romper un tronco de un árbol con un hacha hará que todo el árbol se caiga.
   horseless:
-    name: Horseless
+    name: Sin Caballos
     description:
-    - You are not able to tame horses/donkeys.
-    error: '&4[Horseless] &cYou can''t ride that horse!'
+    - No puedes domar caballos/burros.
+    error: '&4[Sin Caballos] &c¡No puedes montar ese caballo!'
   timebomb:
-    name: Timebomb
+    name: Bomba de Tiempo
     description:
-    - After killing a player, their loot will drop into a double chest.
-    - The chest will explode 30 seconds later.
-    chest: '&6&l%player%''s Timebomb'
+    - Después de matar a un jugador, su botín caerá en un cofre doble.
+    - El cofre explotará 30 segundos después.
+    chest: '&6&lBomba de Tiempo de %player%'
   no_fall:
-    name: No Fall
+    name: Sin Caída
     description:
-    - Fall damage is off.
+    - No hay daño por caída.
   best_pve:
-    name: Best PvE
+    name: Mejor PvE
     description:
-    - Each player will be added to the "Best PvE List" at the start of the game.
-    - While being on the list , you will gain 1 extra heart every 10 minutes.
-    - Once a player takes damage, the player will be removed from the list.
-    - If you kill a player, you are added back to the list.
-    added: '&4[Best PvE] &aYou are added to the PvE list.'
-    removed: '&4[Best PvE] &cYou are now removed from the PvE list. Getting a kill
-      will add you back to the list.'
-    back: '&4[Best PvE] &aYou are added back to the PvE list.'
+    - Cada jugador será añadido a la "Lista de Mejor PvE" al comienzo del juego.
+    - Mientras estés en la lista, ganarás 1 corazón extra cada 10 minutos.
+    - Una vez que un jugador recibe daño, será removido de la lista.
+    - Si matas a un jugador, serás añadido nuevamente a la lista.
+    added: '&4[Mejor PvE] &aHas sido añadido a la lista de PvE.'
+    removed: '&4[Mejor PvE] &cHas sido removido de la lista de PvE. Obtener una muerte
+      te añadirá de nuevo a la lista.'
+    back: '&4[Mejor PvE] &aHas sido añadido de nuevo a la lista de PvE.'
   triple_ores:
-    name: Triple Ores
+    name: Minerales Triples
     description:
-    - Ores drop in threes.
+    - Los minerales caen en tríos.
   double_ores:
-    name: Double Ores
+    name: Minerales Dobles
     description:
-    - Ores drop in pairs.
+    - Los minerales caen en pares.
   team_inventory:
-    name: Team Inventory
+    name: Inventario de Equipo
     description:
-    - Each team has an extra inventory that all members from the team can view by
-      using /teaminventory.
-    error: '&cYou may only open your team''s inventory while playing!'
-    disabled: '&cTeam Inventory is currently disabled!'
-    open: '&aOpening team inventory ...'
-    title: '&6Team Inventory'
+    - Cada equipo tiene un inventario extra que todos los miembros del equipo pueden
+      ver usando /teaminventory.
+    error: '&c¡Solo puedes abrir el inventario de tu equipo mientras juegas!'
+    disabled: '&c¡El Inventario de Equipo está actualmente deshabilitado!'
+    open: '&aAbriendo inventario de equipo ...'
+    title: '&6Inventario de Equipo'
   no_clean:
-    name: No Clean
+    name: Sin Limpieza
     description:
-    - Gives you 30 seconds of invincibility after a kill.
-    - Attacking other players will remove this PvP Protection.
-    invulnerable: '&4[NoClean] &aYou are now invulnerable for 30 seconds!'
-    vulnerable: '&4[NoClean] &cYou can now take damage again!'
-    error: '&4[NoClean] &cYou can''t damage this player!'
+    - Te da 30 segundos de invulnerabilidad después de una muerte.
+    - Atacar a otros jugadores eliminará esta Protección de PvP.
+    invulnerable: '&4[Sin Limpieza] &a¡Ahora eres invulnerable por 30 segundos!'
+    vulnerable: '&4[Sin Limpieza] &c¡Ahora puedes recibir daño de nuevo!'
+    error: '&4[Sin Limpieza] &c¡No puedes dañar a este jugador!'
   hastey_boys:
-    name: Hastey Boys
+    name: Chicos Veloz
     description:
-    - Every tool you craft will have Efficiency 3 and Unbreaking 1
-    grindstone-error: '&4[Hastey Boys] &cYou may not disenchant "Hastey Boys" tools.'
+    - Cada herramienta que fabriques tendrá Eficiencia 3 y Durabilidad 1
+    grindstone-error: '&4[Chicos Veloz] &c¡No puedes desencantar herramientas "Chicos
+      Veloz"!'
   lucky_leaves:
-    name: Lucky Leaves
+    name: Hojas Afortunadas
     description:
-    - Leaves have a 0.5% chance of dropping a Golden Apple when they decay.
+    - Las hojas tienen un s5% de probabilidad de dejar caer una Manzana Dorada cuando
+      se descomponen.
   bleeding_sweets:
-    name: Bleeding Sweets
+    name: Dulces Sangrientos
     description:
-    - On death a player drops 1 diamond, 5 gold, 1 book, 2 string and 16 arrows
+    - Al morir un jugador deja caer 1 diamante, 5 de oro, 1 libro, 2 cuerdas y 16
+      flechas
   double_gold:
-    name: Double Gold
+    name: Oro Doble
     description:
-    - The original amount of gold will double when mined.
+    - La cantidad original de oro se duplicará cuando se extraiga.
   goldless:
-    name: Goldless
+    name: Sin Oro
     description:
-    - When gold is mined, it will disappear and is not obtainable.
+    - Cuando se extrae oro, desaparecerá y no es obtenible.
   flower_power:
-    name: Flower Power
+    name: Poder de las Flores
     description:
-    - Break flowers to receive items.
+    - Rompe flores para recibir objetos.
   switcheroo:
     name: Switcheroo
     description:
-    - When you shoot someone, you trade places with them
-    switch: '&4[Switcheroo] &6You have switched positions with &3%player%'
+    - Cuando disparas a alguien, cambias de lugar con ellos
+    switch: '&4[Switcheroo] &6Has cambiado posiciones con &3%player%'
   vein_miner:
-    name: Vein Miner
+    name: Minero de Vetear
     description:
-    - Mining a block while crouched breaks blocks of the same type in a chain reaction
-    - Only works when using the correct tool for the block type
+    - Minar un bloque mientras estás agachado rompe bloques del mismo tipo en una
+      reacción en cadena
+    - Solo funciona cuando usas la herramienta correcta para el tipo de bloque
   dragon_rush:
-    name: Dragon Rush
+    name: Carrera del Dragón
     description:
-    - In dragon rush the goal is to kill the dragon.
-    - The first team to kill the dragon wins!
-    - There is a end portal at 0 0
+    - En Carrera del Dragón el objetivo es matar al dragón.
+    - ¡El primer equipo en matar al dragón gana!
+    - Hay un portal al final en 0 0
   love_at_first_sight:
-    name: Love At First Sight
+    name: Amor a Primera Vista
     description:
-    - In this scenario you are not able to choose your teammates through the team
-      selection inventory.
-    - Teams are created by clicking on someone in game.
-    join-error: '&cCan''t join teams, Love at first sight is enabled!'
-    join-broadcast: '&4[Love At First Sight] &a%player% has joined %leader%''s team'
+    - En este escenario no puedes elegir a tus compañeros de equipo a través del inventario
+      de selección de equipos.
+    - Los equipos se crean al hacer clic en alguien en el juego.
+    join-error: '&c¡No puedes unirte a equipos, el Amor a Primera Vista está habilitado!'
+    join-broadcast: '&4[Amor a Primera Vista] &a%player% se ha unido al equipo de
+      %leader%'
   fast_leaves_decay:
-    name: Fast Leaves Decay
+    name: Descomposición Rápida de Hojas
     description:
-    - In this scenario after breaking all logs of a tree the leaves will be gone within
-      seconds
+    - En este escenario después de romper todos los troncos de un árbol las hojas
+      desaparecerán en segundos
   sky_high:
-    name: Sky High
+    name: Cielo Alto
     description:
-    - In this scenario after 30 minutes you will start taking damage every 30 seconds
-      while not above y=120
-    damage: '&4[Sky High] &cYou''re taking damage from being below y=120'
+    - En este escenario después de 30 minutos comenzarás a recibir daño cada 30 segundos
+      mientras no estés por encima de y=120
+    damage: '&4[Cielo Alto] &c¡Estás recibiendo daño por estar debajo de y=120!'
   fast_smelting:
-    name: Fast Smelting
+    name: Fundición Rápida
     description:
-    - In this scenario item smelting is sped up 5 times.
+    - En este escenario la fundición de objetos se acelera 5 veces.
   superheroes:
-    name: Superheroes
+    name: Superhéroes
     description:
-    - Each player will gain a unique superpower.
-    - The superpower is Speed 1, Strength 1, Resistance 2, Invisibility, Jump Boost
-      4 or Health Boost 5.
+    - Cada jugador obtendrá un superpoder único.
+    - El superpoder es Velocidad 1, Fuerza 1, Resistencia 2, Invisibilidad, Salto
+      Mejorado 4 o Aumento de Salud 5.
   anonymous:
-    name: Anonymous
+    name: Anónimo
     description:
-    - All player names are distorted.
+    - Todos los nombres de los jugadores están distorsionados.
   gone_fishing:
-    name: Gone Fishing
+    name: A Pescar
     description:
-    - At the beginning of the game everyone gets a lure 3 luck of the sea 3 rod.
+    - Al comienzo del juego todos reciben una caña con señuelo 3 suerte del mar 3.
   infinite_enchants:
-    name: Infinite Enchants
+    name: Encantamientos Infinitos
     description:
-    - At the beginning of the game everyone gets 64 enchantment tables, anvils, lapis
-      blocks and a lot of XP.
+    - Al comienzo del juego todos reciben 64 mesas de encantamientos, yunques, bloques
+      de lapislázuli y mucha XP.
   children_left_unattended:
-    name: Children Left Unattended
+    name: Niños Desatendidos
     description:
-    - When a teammate dies you receive a speed potion and a tamed wolf.
+    - Cuando un compañero de equipo muere, recibes una poción de velocidad y un lobo
+      domesticado.
   silent_night:
-    name: Silent Night
+    name: Noche Silenciosa
     description:
-    - At night death messages, name tags, and chat are disabled.
-    error: '&4[Silent Night] &cSilent Night is enabled'
+    - Por la noche los mensajes de muerte, las etiquetas de nombre y el chat están
+      deshabilitados.
+    error: '&4[Noche Silenciosa] &cNoche Silenciosa está habilitada'
   permakill:
-    name: PermaKill
+    name: Muerte Permanente
     description:
-    - When a player dies, it toggles perma day/night.
+    - Cuando un jugador muere, alterna día/noche permanente.
   weakest_link:
-    name: Weakest Link
+    name: Eslabón Más Débil
     description:
-    - Every 10 minutes the person with the least health will perish.
-    - If everyone is at the same health no one will die.
-    kill: '&4[Weakest Link] &c%player% has been killed!'
+    - Cada 10 minutos la persona con menos salud perecerá.
+    - Si todos están con la misma salud, nadie morirá.
+    kill: '&4[Eslabón Más Débil] &c¡%player% ha sido eliminado!'
   eggs:
-    name: Eggs
+    name: Huevos
     description:
-    - When you throw an egg, a random mob will spawn where it lands.
-    - This includes enderdragons and withers.
-    - When you kill a chicken, there is a 5% chance of it dropping an egg.
+    - Al lanzar un huevo, aparecerá una criatura aleatoria donde caiga.
+    - Esto incluye dragones del End y Withers.
+    - Cuando matas a un pollo, hay un 5% de probabilidad de que deje caer un huevo.
   no_going_back:
-    name: No Going Back
+    name: Sin Retorno
     description:
-    - Once you go through a nether portal in the overworld, you can't go back to the
-      overworld.
-    error: '&4[No Going Back] &cYou are stuck in the nether!'
+    - Una vez que atraviesas un portal al Nether en el Overworld, no puedes volver
+      al Overworld.
+    error: '&4[Sin Retorno] &c¡Estás atrapado en el Nether!'
   double_dates:
-    name: Double Dates
+    name: Citas Dobles
     description:
-    - Players join with a chosen team and are combined randomly with another team.
+    - Los jugadores se unen con un equipo elegido y se combinan aleatoriamente con
+      otro equipo.
   fly_high:
-    name: Fly High
+    name: Vuela Alto
     description:
-    - Players spawn with a elytra.
+    - Los jugadores aparecen con una elytra.
   randomized_drops:
-    name: Randomized Drops
+    name: Drops Aleatorios
     description:
-    - Every block broken will drop random items.
+    - Cada bloque roto dejará caer objetos aleatorios.
   upside_down_crafting:
-    name: Upside Down Crafting
+    name: Crafteo al Revés
     description:
-    - This scenario flips all crafts upside down.
+    - Este escenario invierte todos los crafteos.
   randomized_crafts:
-    name: Randomized Crafts
+    name: Crafteos Aleatorios
     description:
-    - This scenario randomizes the results of all crafts.
+    - Este escenario randomiza los resultados de todos los crafteos.
   monsters_inc:
     name: Monsters Inc.
     description:
-    - In this scenario all doors are linked as portals.
-    error: '&4[Monsters Inc.] &cStop that!'
+    - En este escenario todas las puertas están vinculadas como portales.
+    error: '&4[Monsters Inc.] &c¡Detente!'
   achievement_hunter:
-    name: Achievement Hunter
+    name: Cazador de Logros
     description:
-    - Players start with 5 hearts.
-    - For every achievement/advancement, players get a half heart of health.
+    - Los jugadores comienzan con 5 corazones.
+    - Por cada logro/avance, los jugadores reciben medio corazón de salud.
   nine_slots:
-    name: Nine Slots
+    name: Nueve Ranuras
     description:
-    - You can only use your hotbar to hold items.
+    - Solo puedes usar tu barra de acceso rápido para sostener objetos.
   nether_start:
-    name: Nether Start
+    name: Comienzo en el Nether
     description:
-    - You start the game in the nether.
-fireless:
-  name: Sin Fuego
-  description:
-  - No puedes recibir daño por fuego.
-bowless:
-  name: Sin Arcos
-  description:
-  - No puedes fabricar arcos.
-  error: '&4[Sin Arcos] &c¡No puedes fabricar arcos!'
-rodless:
-  name: Sin Cañas de Pescar
-  description:
-  - No se pueden fabricar cañas de pescar.
-  error: '&4[Sin Cañas de Pescar] &c¡No puedes fabricar cañas de pescar!'
-shieldless:
-  name: Sin Escudos
-  description:
-  - No se pueden fabricar escudos.
-  error: '&4[Sin Escudos] &c¡No puedes fabricar escudos!'
-blood_diamonds:
-  name: Diamantes Sangrientos
-  description:
-  - Al extraer un mineral de diamante, el jugador recibirá medio corazón de daño.
-timber:
-  name: Madera
-  description:
-  - Romper un tronco de un árbol con un hacha hará que todo el árbol caiga.
-horseless:
-  name: Sin Caballos
-  description:
-  - No puedes domar caballos/burros.
-  error: '&4[Sin Caballos] &c¡No puedes montar ese caballo!'
-timebomb:
-  name: Bomba de Tiempo
-  description:
-  - Después de matar a un jugador, su botín caerá en un cofre doble.
-  - El cofre explotará 30 segundos después.
-  chest: '&6&lEl tiempo de %player%'
-no_fall:
-  name: Sin Caídas
-  description:
-  - El daño por caída está desactivado.
-best_pve:
-  name: Mejor PvE
-  description:
-  - Cada jugador será añadido a la "Lista de Mejor PvE" al comienzo del juego.
-  - Mientras estés en la lista, ganarás 1 corazón extra cada 10 minutos.
-  - Una vez que un jugador recibe daño, será eliminado de la lista.
-  - Si matas a un jugador, serás añadido de nuevo a la lista.
-  added: '&4[Mejor PvE] &aEstás en la lista de PvE.'
-  removed: '&4[Mejor PvE] &cHas sido eliminado de la lista de PvE. Matar a un jugador
-    te añadirá de nuevo a la lista.'
-  back: '&4[Mejor PvE] &aHas sido añadido de nuevo a la lista de PvE.'
-triple_ores:
-  name: Minerales Triples
-  description:
-  - Los minerales caen en tríos.
-double_ores:
-  name: Minerales Dobles
-  description:
-  - Los minerales caen en pares.
-team_inventory:
-  name: Inventario del Equipo
-  description:
-  - Cada equipo tiene un inventario extra que todos los miembros del equipo pueden
-    ver usando /teaminventory.
-  error: '&c¡Solo puedes abrir el inventario de tu equipo mientras juegas!'
-  disabled: '&c¡El inventario del equipo está desactivado!'
-  open: '&aAbriendo inventario del equipo ...'
-  title: '&6Inventario del Equipo'
-no_clean:
-  name: No Clean
-  description:
-  - Te da 30 segundos de invulnerabilidad después de una muerte.
-  - Atacar a otros jugadores eliminará esta protección de PvP.
-  invulnerable: '&4[No Clean] &a¡Eres invulnerable durante 30 segundos!'
-  vulnerable: '&4[No Clean] &c¡Ahora puedes recibir daño!'
-  error: '&4[No Clean] &c¡No puedes dañar a este jugador!'
-hastey_boys:
-  name: Chicos Rápidos
-  description:
-  - Cada herramienta que fabriques tendrá Eficiencia 3 y Durabilidad 1.
-  grindstone-error: '&4[Chicos Rápidos] &cNo puedes desencantar herramientas de "Chicos
-    Rápidos".'
-lucky_leaves:
-  name: Hojas de la Suerte
-  description:
-  - Las hojas tienen un 0.5% de probabilidad de dejar caer una Manzana Dorada al descomponerse.
-bleeding_sweets:
-  name: Dulces Sangrientos
-  description:
-  - Al morir, un jugador deja caer 1 diamante, 5 oro, 1 libro, 2 cuerdas y 16 flechas.
-double_gold:
-  name: Oro Doble
-  description:
-  - La cantidad original de oro se duplicará al extraerse.
-goldless:
-  name: Sin Oro
-  description:
-  - Cuando se extrae oro, desaparecerá y no se podrá obtener.
-flower_power:
-  name: Poder de las Flores
-  description:
-  - Rompe flores para recibir objetos.
-switcheroo:
-  name: Switcheroo
-  description:
-  - Cuando disparas a alguien, intercambias lugares con ellos.
-  switch: '&4[Switcheroo] &6Has intercambiado posiciones con &3%player%'
-vein_miner:
-  name: Minero de Vetas
-  description:
-  - Al minar un bloque mientras te agachas, se romperán bloques del mismo tipo en
-    una reacción en cadena.
-  - Solo funciona al usar la herramienta correcta para el tipo de bloque.
-dragon_rush:
-  name: Carrera del Dragón
-  description:
-  - En la carrera del dragón, el objetivo es matar al dragón.
-  - ¡El primer equipo en matar al dragón gana!
-  - Hay un portal al final en 0 0.
-love_at_first_sight:
-  name: Amor a Primera Vista
-  description:
-  - En este escenario no puedes elegir a tus compañeros de equipo a través del inventario
-    de selección de equipo.
-  - Los equipos se crean haciendo clic en alguien en el juego.
-  join-error: '&c¡No se pueden unir a equipos, el Amor a Primera Vista está habilitado!'
-  join-broadcast: '&4[Amor a Primera Vista] &a%player% se ha unido al equipo de %leader%'
-fast_leaves_decay:
-  name: Descomposición Rápida de Hojas
-  description:
-  - En este escenario, después de romper todos los troncos de un árbol, las hojas
-    desaparecerán en segundos.
-sky_high:
-  name: Cielo Alto
-  description:
-  - En este escenario, después de 30 minutos comenzarás a recibir daño cada 30 segundos
-    mientras no estés por encima de y=120.
-  damage: '&4[Cielo Alto] &c¡Estás recibiendo daño por estar por debajo de y=120!'
-fast_smelting:
-  name: Fundición Rápida
-  description:
-  - En este escenario, la fundición de ítems se acelera 5 veces.
-superheroes:
-  name: Superhéroes
-  description:
-  - Cada jugador obtendrá un superpoder único.
-  - El superpoder es Velocidad 1, Fuerza 1, Resistencia 2, Invisibilidad, Salto 4
-    o Aumento de Salud 5.
-anonymous:
-  name: Anónimo
-  description:
-  - Todos los nombres de los jugadores están distorsionados.
-gone_fishing:
-  name: De Pesca
-  description:
-  - Al comienzo del juego, todos obtienen una caña de pescar con Atraer 3 y Suerte
-    del Mar 3.
-infinite_enchants:
-  name: Encantamientos Infinitos
-  description:
-  - Al comienzo del juego, todos obtienen 64 mesas de encantamiento, yunques, bloques
-    de lapislázuli y mucha XP.
-children_left_unattended:
-  name: Niños sin Supervisión
-  description:
-  - Cuando un compañero de equipo muere, recibes una poción de velocidad y un lobo
-    domesticado.
-silent_night:
-  name: Noche Silenciosa
-  description:
-  - Por la noche, los mensajes de muerte, las etiquetas de nombres y el chat están
-    deshabilitados.
-  error: '&4[Noche Silenciosa] &cNoche Silenciosa está habilitado'
-permakill:
-  name: Muerte Permanente
-  description:
-  - Cuando un jugador muere, se alterna entre día/noche permanente.
-weakest_link:
-  name: El Eslabón Más Débil
-  description:
-  - Cada 10 minutos, la persona con menos salud perecerá.
-  - Si todos tienen la misma salud, nadie morirá.
-  kill: '&4[El Eslabón Más Débil] &c¡%player% ha sido asesinado!'
-eggs:
-  name: Huevos
-  description:
-  - Cuando lanzas un huevo, aparecerá un mob aleatorio donde caiga.
-  - Esto incluye dragones y withers.
-  - Cuando matas a una gallina, hay un 5% de probabilidad de que deje caer un huevo.
-no_going_back:
-  name: Sin Retorno
-  description:
-  - Una vez que atravieses un portal del Nether en el mundo normal, no puedes volver
-    al mundo normal.
-  error: '&4[Sin Retorno] &c¡Estás atrapado en el Nether!'
-double_dates:
-  name: Citas Dobles
-  description:
-  - Los jugadores se unen con un equipo elegido y se combinan al azar con otro equipo.
-fly_high:
-  name: Vuela Alto
-  description:
-  - Los jugadores aparecen con una elytra.
-randomized_drops:
-  name: Caídas Aleatorias
-  description:
-  - Cada bloque roto dejará caer ítems aleatorios.
-upside_down_crafting:
-  name: Crafteo Invertido
-  description:
-  - Este escenario invierte todos los crafteos.
-randomized_crafts:
-  name: Crafteos Aleatorios
-  description:
-  - Este escenario aleatoriza los resultados de todos los crafteos.
-monsters_inc:
-  name: Monsters Inc.
-  description:
-  - En este escenario, todas las puertas están enlazadas como portales.
-  error: '&4[Monsters Inc.] &c¡Detente!'
-achievement_hunter:
-  name: Cazador de Logros
-  description:
-  - Los jugadores comienzan con 5 corazones.
-  - Por cada logro/avance, los jugadores obtienen medio corazón de salud.
-nine_slots:
-  name: Nueve Ranuras
-  description:
-  - Solo puedes usar tu barra de acceso rápido para mantener ítems.
-nether_start:
-  name: Comienzo en el Nether
-  description:
-  - Comienzas el juego en el Nether.
+    - Comienzas el juego en el Nether.
 items:
   team-list: '&9Right click to view teams'
   sword: '&bRight click to choose your team'

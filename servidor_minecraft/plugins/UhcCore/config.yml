@@ -175,7 +175,7 @@ customize-game-behavior:
 
   # Set it to false to prevent players from entering the nether through a portal
   # Only set this to true when you are really using it since more worlds loaded means worse performance.
-  enable-nether: false
+  enable-nether: true
 
   # Set it to true to enable the end.
   # Only set this to true when you are really using it since more worlds loaded means worse performance.
@@ -312,7 +312,7 @@ fast-mode:
 
   apple-drops:
     # What percentage of leaves should drop apples? (The default vanilla percentage is 0.5%)
-    percentage: 0.5
+    percentage: 4
     # Set to true if you want all type of trees to drop apples. (By default only oak and dark oak trees drop apples)
     all-trees: true
     # Set to true if you want sheared leaves to drop apples.
