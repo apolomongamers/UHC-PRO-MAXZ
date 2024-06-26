@@ -49,7 +49,7 @@ waiting:
   - '&a%scenarios%'
   - ''
   - '&6IP:'
-  - '&astandard-wagner.gl.joinmc.link'
+  - '&aNo la filtres'
 
 # Marcador mientras el juego está en curso.
 playing:
@@ -61,7 +61,7 @@ playing:
   - '&6Equipo:'
   - '&a%members-name% &c%members-health% &lHP'
   - ''
-  - '&astandard-wagner.gl.joinmc.link'
+  - '&aNo la filtres'
 
 # Marcador mientras el juego está en deathmatch.
 deathmatch:
@@ -69,7 +69,7 @@ deathmatch:
   - '&6Muertes: &a%kills%'
   - '&6Jugadores restantes: &a%alive%'
   - ''
-  - '&astandard-wagner.gl.joinmc.link'
+  - '&aNo la filtres'
 
 # Marcador mientras se está en modo espectador.
 spectating:
@@ -78,4 +78,4 @@ spectating:
   - '&6Muertes: &a%kills%'
   - '&6Jugadores restantes: &a%alive%'
   - ''
-  - '&astandard-wagner.gl.joinmc.link'
+  - '&aNo la filtres'
