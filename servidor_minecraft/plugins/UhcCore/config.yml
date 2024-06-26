@@ -5,7 +5,7 @@ minimal-ready-teams-percentage-to-start: 60
 minimal-ready-teams-to-start: 2
 
 #Choose the minimum number of players connected  to start the countdown when team are ready (in combination with the two above options)
-min-players-to-start: 9999
+min-players-to-start: 100
 
 #Choose how much players can be in the same team, set it to 1 to play a game with no teams
 max-players-per-team: 2
@@ -45,7 +45,7 @@ enable-team-names: true
 time-to-start-when-ready: 15
 
 #The time in seconds before the PVP starts
-time-before-pvp: 600
+time-before-pvp: 3000
 
 # When enabled players of the same team will be able to damage each other.
 enable-friendly-fire: false
@@ -75,7 +75,7 @@ chat-prefix:
 disable-motd: false
 
 # Game difficulty (Choose from this list: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Difficulty.html)
-game-difficulty: HARD
+game-difficulty: easy
 
 # When set to false, Advancements (1.12+) will not be announced in chat. Achievements (1.8-1.11) can be turned off in your server.properties
 announce-advancements: true
@@ -92,7 +92,7 @@ kill-disconnected-players-after-delay:
 spawn-offline-players: true
 
 #Timer in seconds to auto stop/restart the server when the game as ended (Set to -1 to disable)
-time-before-restart-after-end: 30
+time-before-restart-after-end: 300
 
 #Set it to false to prevent the end of the game if there are no players left (may be useful for private servers with friends playing over several days,
 # it still requires the server to be left running while there are no players on it)
@@ -164,18 +164,18 @@ customize-game-behavior:
   # Enable extra max life for every player
   add-player-extra-half-hearts:
     enable: false
-    extra-half-hearts: 20
+    extra-half-hearts: 25
 
   # Set it to true to enable the need of a permission to use a custom craft
   # Permissions node will be like uhc-core.craft.light-apple (Craft name in lowercase and spaces replaced by dashes.)
-  enable-crafts-permissions: false
+  enable-crafts-permissions: true
 
   #Max building height (Set to -1 to disable).
   max-building-height: -1
 
   # Set it to false to prevent players from entering the nether through a portal
   # Only set this to true when you are really using it since more worlds loaded means worse performance.
-  enable-nether: true
+  enable-nether: false
 
   # Set it to true to enable the end.
   # Only set this to true when you are really using it since more worlds loaded means worse performance.
@@ -194,9 +194,9 @@ customize-game-behavior:
 
   # Set it to true to allow droping a player head when a player dies
   # Eating the head regenerates your team for 5 seconds
-  add-regen-head-drop-on-player-death: false
+  add-regen-head-drop-on-player-death: true
   # Set this to true to double the health given to your team.
-  double-regen-head: false
+  double-regen-head: true
 
 
   # When golden heads are enabled on players death a skull will drop.
@@ -224,7 +224,7 @@ fast-mode:
 
   # Set to true if you want all playing players to be healed at a set time.
   final-heal:
-    enable: false
+    enable: true
     delay: 1200
 
   underground-nether:
@@ -358,31 +358,31 @@ fast-mode:
 
       # Same config with other ores ...
       IRON_ORE:
-        min-veins-per-chunk: 2
-        max-veins-per-chunk: 10
-        min-blocks-per-vein: 4
-        max-blocks-per-vein: 8
+        min-veins-per-chunk: 4
+        max-veins-per-chunk: 15
+        min-blocks-per-vein: 5
+        max-blocks-per-vein: 9
         min-y: 0
         max-y: 60
       GOLD_ORE:
-        min-veins-per-chunk: 2
-        max-veins-per-chunk: 5
-        min-blocks-per-vein: 2
-        max-blocks-per-vein: 8
+        min-veins-per-chunk: 3
+        max-veins-per-chunk: 7
+        min-blocks-per-vein: 3
+        max-blocks-per-vein: 9
         min-y: 0
         max-y: 60
       DIAMOND_ORE:
-        min-veins-per-chunk: 2
-        max-veins-per-chunk: 4
-        min-blocks-per-vein: 2
-        max-blocks-per-vein: 5
+        min-veins-per-chunk: 4
+        max-veins-per-chunk: 8
+        min-blocks-per-vein: 3
+        max-blocks-per-vein: 6
         min-y: 0
         max-y: 60
       LAPIS_ORE:
-        min-veins-per-chunk: 2
-        max-veins-per-chunk: 4
-        min-blocks-per-vein: 2
-        max-blocks-per-vein: 4
+        min-veins-per-chunk: 4
+        max-veins-per-chunk: 8
+        min-blocks-per-vein: 3
+        max-blocks-per-vein: 6
         min-y: 0
         max-y: 60
       REDSTONE_ORE:
@@ -451,7 +451,7 @@ border:
   end-size: 200
 
   #If moving is set to true, the time in seconds for the border to shrink to end-size
-  time-to-shrink: 3600
+  time-to-shrink: 4800
 
   #If moving is set to true, the time in seconds for the border before it starts moving
   time-before-shrink: 0
@@ -462,7 +462,7 @@ deathmatch:
   # Set it to false to make an endless game until one team wins
   enable: true
   # The time in seconds before the deathmatch starts
-  delay: 3600
+  delay: 4800
   # The time in seconds before PvP is enabled and players are released after the deathmatch starts
   pvp-delay: 30
   # Set it to true if you want players in deathmatch to be in adventure mode. (false = survival mode)
