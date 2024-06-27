@@ -22,3 +22,19 @@ kits:
     items:
       - '{"type":"PAPER","amount":15}'
       - '{"type":"LEATHER","amount":5}'
+
+  obsidian:
+    symbol:
+      item: '{"type":"DIAMOND_PICKAXE"}'
+      name: Kit Obsidian & Flint
+    items:
+      - '{"type":"OBSIDIAN","amount":20}'
+      - '{"type":"FLINT_AND_STEEL"}'
+
+  golden_apples:
+    symbol:
+      item: '{"type":"GOLDEN_APPLE","amount":10}'
+      name: Kit Golden Apples & Notch Apple
+    items:
+      - '{"type":"GOLDEN_APPLE","amount":10}'
+      - '{"type":"APPLE","name":"Notch Apple"}'
