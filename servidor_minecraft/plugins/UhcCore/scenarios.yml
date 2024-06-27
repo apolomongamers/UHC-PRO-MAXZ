@@ -43,7 +43,7 @@ love_at_first_sight:
   max-players-per-team: -1
 lucky_leaves:
   # The chance (where 1 is 100%) that a golden apple drops when a leaf block is decayed.
-  golden-apple-drop-chance: 0.05
+  golden-apple-drop-chance: 0.025
 achievement_hunter:
   # Amount of health players start with. (1 heart = 2 health)
   health-at-start: 10

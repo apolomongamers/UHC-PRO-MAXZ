@@ -1,2368 +1,1168 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719459746396 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719511705383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459749442 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511708451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459752493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511711497 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459755561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511714554 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459758618 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511717648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459761678 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511720738 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459764748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511723783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459767825 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511726822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459771055 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511729875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459774107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511732916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459777200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511735965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459780251 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511739057 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459783312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511742375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459786412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511745498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459789459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511748583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459792493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511751634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459795634 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511754690 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459798820 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511757766 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459802228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511760837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459805287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511763930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459808375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511766982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459811542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511770024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459814620 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511773071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459817694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511776144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459822250 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511779210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459825290 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511782257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459828328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511785342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459831797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511788414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459834953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511791467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459838004 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511794527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459841546 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511797581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459844591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511800633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459847643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511803717 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459850871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511806824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459853943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511809872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459857037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511812930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459860089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511815977 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459863152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511819112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459866192 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511822200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459869294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511825247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459872333 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511828292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459875374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511831369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459878413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511834432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459881543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511837499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459884634 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511840540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459887682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511843605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459890770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511846657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459893883 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511849727 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459896958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511852774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459899994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511855863 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459903039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511858956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459906128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511862086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459909173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511865140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459912266 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511868205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459915382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511871274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459918440 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511874319 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459921522 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511877386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459924563 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511880439 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459927596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511883553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459930652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511886612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459933696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511889693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459936743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511892765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459939779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511895873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459942824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511898968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459945888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511902008 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459948924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511905055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459951959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511908116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459955088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511911191 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459958512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511914252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459961636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511917322 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459964684 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511920433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459967722 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511923601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459970753 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511926673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459973852 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511929734 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459976929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511932852 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459980014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511935900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459983066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511938954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459986187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511942051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459989305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511945218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459992345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511948361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459995399 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511951443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719459998445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511954570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460001609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511957639 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460004720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511960706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460007799 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511963764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460010880 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511966854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460013934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511969949 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460016998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511973054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460020043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511976136 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460023127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511979189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460026397 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511982332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460029547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511985398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460032629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511988437 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460035671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511991489 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460038736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511994613 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460041787 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719511997674 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460044834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512000726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460047952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512003768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460052094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512006805 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460055142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512009859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460058190 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512012925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460061237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512016043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460064362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512019094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460067456 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512022173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460070515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512025216 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460073998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512028273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460077085 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512031364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460080136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512034434 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460083172 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512037495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460086222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512040633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460089367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512043709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460092537 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512046759 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460095596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512049796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460099607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512052847 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460102717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512055896 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460105768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512058951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460108815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512062029 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460111871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512065082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460114909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512068129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460117978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512071233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460121122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512074287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460124252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512077344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460127305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512080387 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460130358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512083443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460133411 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512086568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460136472 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512089618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460139521 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512092673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460143886 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512095770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460146917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512098804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460150025 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512102064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460153139 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512105112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460156172 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512108163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460159211 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512111206 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460162247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512114288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460165407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512117343 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460168743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512120388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460172082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512123450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460175145 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512126507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460178315 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512129557 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460181371 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512132618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460184401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512135680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460187531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512138740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460191252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512141804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460194310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512144865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460197367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512147903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460200455 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512150968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460204010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512154029 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460207126 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512157186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460210190 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512160238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460213303 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512163302 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460216344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512166390 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460219395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512169479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460222460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512172519 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460225563 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512175572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460228625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512178688 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460231679 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512181752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460234742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512184809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460237800 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512187857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460240836 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512190904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460243896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512193958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460246940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512197062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460250000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512200182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460253080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512203256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460256154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512206349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460260080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512209396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460264213 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512212445 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460267284 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512215505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460270331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512218571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460273396 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512221616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460276452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512224680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460279503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512227764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460284147 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512230838 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460287248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512233952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460290286 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512237006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460293372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512240069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460296409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512243191 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460299460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512246293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460302605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512249362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460305858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512252454 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460308921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512255586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460311951 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512258655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460315044 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512261724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460318120 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512264763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460321174 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512267830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460324210 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512271014 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460327563 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512274170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460332768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512277292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460335839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512280363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460339178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512283463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460342630 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512286518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460345682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512289569 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460348740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512292694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460352327 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512295821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460355363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512298892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460358399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460361787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460364857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460367917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460370952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460373992 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460377049 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460380085 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460383121 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460386161 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460389223 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460392323 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460395401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460398542 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460401588 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460404636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460407671 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460410817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460413905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460416960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460419998 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460423076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460426188 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460429231 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460432269 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460435525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460439028 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460442061 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460445125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460448182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460451247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460454302 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460457346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460460528 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460463640 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460466750 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460470442 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460473496 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460476531 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460479601 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460482711 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460485796 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460488859 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460493026 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460496111 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460499282 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460502715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460505799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460508860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460511956 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460516162 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460519193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460522226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460525259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460528297 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460531473 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460534535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460537575 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460540703 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460543753 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460546861 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460549937 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460552997 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460556056 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460559224 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460562348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460565383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460568420 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460571453 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460574491 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460577525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460580586 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460583698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460586785 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460590083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460593153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460596194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460599418 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460602537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460605641 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460608672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460611705 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460614765 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460617888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460621000 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460624055 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460627099 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460631041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460634097 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460637169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460640303 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460643334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460646376 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460649432 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460653556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460656593 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460659673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460662717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460665761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460668835 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460671883 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460675249 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460679128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460682222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460685308 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460688341 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460691373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460694481 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460697683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460702206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460705299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460708349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460711425 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460714466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460717502 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460720535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460723591 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460726667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460729770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460732812 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460735855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460738896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460741945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460745022 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460748435 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460751470 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460754525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460757621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460760689 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460763721 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460766772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460769815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460772852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460775887 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460778930 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460781966 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460785007 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460788067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460791098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460794132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460797172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460800361 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460804753 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460807788 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460810852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460813925 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460817699 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460821317 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460824429 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460827492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460830567 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460833926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460838654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460842292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460845941 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460849073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460852165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460855213 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460858254 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460861429 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460864472 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460867542 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460870584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460873616 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460876685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460879745 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460884494 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460887944 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460890987 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460894035 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460897068 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460900127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460903179 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460907225 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460910273 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460913459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460916500 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460919613 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460923217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460926279 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460929352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460932428 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460935490 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460938529 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460941564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460944650 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460947689 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460950809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460953911 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460956978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460960015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460963060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460966149 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460969188 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460972224 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460975282 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460978326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460981469 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460984502 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460987758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-standard-wagner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-contents-burke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719460990896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512301934 tunnel running, 2 tunnels registered
 
 
 TUNNELS
