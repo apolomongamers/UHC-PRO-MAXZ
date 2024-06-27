@@ -318,6 +318,9 @@ fireball-messages:
 arrow-messages:
 - '&c%victim% &elooked like a porcupine after getting shot to death'
 
+on-death:
+  - "title set {PLAYER} title {'text':'¡Has sido papiado!','color':'red','bold':true}"
+
 # Only here to help me debug my plugin, not suggested you enable.
 developer-mode: false
 

@@ -513,12 +513,11 @@ generate-structures: true
 #Write custom seeds to be used when creating a new map
 world-seeds:
   #Set it to true to pick a random seed from this list
-  pick-random-seed-from-list: false
+  pick-random-seed-from-list: true
 
   #Write here custom seeds
   list:
-    - 8708477303049171819
-    - 4718448332187272495
+    - -4589128118707775879
 
 #Write existing world name in your server folder to copy and play on a map you have created.
 # If you also want a custom nether or end make sure to include those worlds. They will be named (your_world_nether, your_world_the_end)
@@ -533,7 +532,7 @@ world-list:
 #Enable bungee-coord support to send players back to the server of your choice when the game ends
 bungee-support:
   #Set it to true to send players back to a server at the end
-  enable: false
+  enable: true
   #Set it to true if you want players to get a return to lobby item on their hotbar.
   use-lobby-item: true
   #The name of the server (same as in your bungee config)

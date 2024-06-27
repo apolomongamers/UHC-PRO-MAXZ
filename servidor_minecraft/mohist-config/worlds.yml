@@ -61,8 +61,20 @@ worlds:
     worldborder: 500.0
     difficulty: HARD
   bec3aa77-80ee-43c5-b314-7b737975d2fe:
-    worldborder: 1000.0
+    worldborder: 250.0
     difficulty: HARD
   504cc096-daca-47a1-a5dd-59a31095f86d:
+    worldborder: 500.0
+    difficulty: HARD
+  c9c92a35-ced9-4fdd-9548-dff64a82cc41:
+    worldborder: 1000.0
+    difficulty: HARD
+  7202eca6-6340-4457-a388-d20c9ba75fca:
+    worldborder: 500.0
+    difficulty: HARD
+  973533d0-53bb-4b6e-8a4d-a9d8af846714:
+    worldborder: 1000.0
+    difficulty: HARD
+  b66e0f94-ae12-4783-9a6e-467fd94a09a2:
     worldborder: 500.0
     difficulty: HARD
