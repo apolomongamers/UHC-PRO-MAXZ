@@ -8,7 +8,7 @@
 # ||      announcement (announce command).    ||
 # ||       For no prefix, leave as ""         ||
 # -------------------------------------------------------
-prefix: "&4&l[Broadcast]&c "
+prefix: '&4&l[Broadcast]&c '
 
 # ============[ Permanent Action Bar ]===========
 PermanentActionBar:
@@ -54,14 +54,14 @@ PermanentActionBar:
   # -------------------------------------------------------
   # Find the full color list here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/ChatColor.html
   ChatColor:
-    - GREEN
-    - YELLOW
-    - AQUA
-    - LIGHT_PURPLE
-    - RED
-    - BLUE
-    - WHITE
-    - MAGIC
+  - GREEN
+  - YELLOW
+  - AQUA
+  - LIGHT_PURPLE
+  - RED
+  - BLUE
+  - WHITE
+  - MAGIC
 
 # ===============[ Actionbar Announcements (/abx announce) ]=================
 Announcements:
@@ -69,7 +69,7 @@ Announcements:
   # ||               Enable/Disable                ||
   # -------------------------------------------------------
   Enable: true
-
+  
   # -------------------------------------------------------
   # ||          Default Duration (seconds)         ||
   # ||   The Duration for an announcement can be   ||
