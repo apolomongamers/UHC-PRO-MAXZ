@@ -90,3 +90,9 @@ worlds:
   d96ae068-1db4-461c-a27d-d414c0062350:
     worldborder: 500.0
     difficulty: HARD
+  bd60641b-1772-4760-a71b-f282fdf4b6e1:
+    worldborder: 1000.0
+    difficulty: HARD
+  fe1cf5f6-efee-4587-92ef-a74f36a939e2:
+    worldborder: 500.0
+    difficulty: HARD

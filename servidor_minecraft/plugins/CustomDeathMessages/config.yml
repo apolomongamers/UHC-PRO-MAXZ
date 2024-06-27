@@ -1,6 +1,7 @@
 # Enable Update Messages: enables update messages
 enable-update-messages: true
 
+# To use hex colors: &#hex
 # PvP Messages: sends a message to the killer and victim when a player is killed by another player.
 # Placeholders for pvp messages: %victim%, %victim-nick%, %killer%, %killer-nick%, %killer-x%, %killer-y%, %killer-z%, %victim-x%, %victim-y%, %victim-z%
 enable-pvp-messages: true
@@ -9,6 +10,11 @@ victim-message: '&e[&cDeathMessages&e] &eYou were killed by &c%killer%'
 
 # Lightning: lightning strike effect at the location of the death.
 enable-lightning: true
+
+# Drop head percentage: chance to drop head, should be a number between 0 and 1: (0 = 0%, 0.5 = 50%, 1 = 100%)
+# Head name: name of the head whenever dropped from a player.
+drop-head-percentage: 0.5
+head-name: '&c%victim%''s Head'
 
 # Message cooldown: cooldown in seconds between death messages for a specific player. 0 to disable.
 message-cooldown: 0
@@ -22,15 +28,23 @@ enable-original-on-hover: false
 # Item on Hover: show the item used to kill the player when hovering over the item name.
 enable-item-on-hover: true
 
-# Global PvP Death Messages
+# You can add, edit, or remove any of the messages below.
+# Placeholders for melee messages: %kill-weapon%, %victim%, %victim-nick%, %killer%, %killer-nick%, %killer-x%, %killer-y%, %killer-z%, %victim-x%, %victim-y%, %victim-z%
 global-pvp-death-messages:
-- '&c%victim% &eha sido papeado por &c%killer%'
+- '&c%victim% &ehas been killed by &c%killer%'
+- '&c%victim% &ewas slain by &c%killer% &eusing &7[&b%kill-weapon%&7]'
+- '&c%victim% &ehas been put down by &c%killer%'
+- '&c%victim% &ewas slaughtered by &c%killer% &eusing &7[&b%kill-weapon%&7]'
+- '&c%killer% &epulverized &c%victim% &eusing &7[&b%kill-weapon%&7]'
+- '&c%victim% &ewas destroyed by &c%killer%&e'
+- '&c%killer% &egave &c%victim% &ethe L'
+- '&c%victim% &ewas EZ clapped by &c%killer% &eusing &7[&b%kill-weapon%&7]'
 
-# Additional Death Messages
+# Placeholders for melee messages: %victim%, %victim-nick%, %killer%, %killer-nick%, %killer-x%, %killer-y%, %killer-z%, %victim-x%, %victim-y%, %victim-z%
 melee-death-messages:
-- '&c%victim% &efue abofeteado por &c%killer%'
-- '&c%victim% &efue KO''d por &c%killer%'
-- '&c%victim% &efue destrozado por &c%killer%'
+- '&c%victim% &ewas slapped by &c%killer%'
+- '&c%victim% &ewas KO''d &c%killer%'
+- '&c%victim% &egot rocked by &c%killer%'
 
 # Messages for entities with custom names: will override their mob group message and display these instead, if enabled.
 # Placeholders: %victim%, %victim-nick%, %entity-name%, %victim-x%, %victim-y%, %victim-z%
@@ -318,11 +332,8 @@ fireball-messages:
 arrow-messages:
 - '&c%victim% &elooked like a porcupine after getting shot to death'
 
-on-death:
-  - "title set {PLAYER} title {'text':'¡Has sido papiado!','color':'red','bold':true}"
-
 # Only here to help me debug my plugin, not suggested you enable.
 developer-mode: false
 
 # Config version, do not change this.
-config-version: '2'
+config-version: 2
