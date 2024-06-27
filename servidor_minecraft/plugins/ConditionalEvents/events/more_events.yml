@@ -3,8 +3,8 @@ Events:
     type: player_death
     actions:
       default:
-      - 'player_command_as_op: title @a title {"text":"¡Permadeath!","color":"red"}'
-      - 'player_command_as_op: title @a subtitle {"text":"%player% ha muerto","color":"white"}'
+      - 'player_command_as_op: title @a title {"text":"¡Muerte permanente!","color":"red"}'
+      - 'player_command_as_op: title @a subtitle {"text":"%player% ha PAPEADO Y SE HA IDO AL LIMBO","color":"white"}'
       - 'player_command_as_op: tellraw @a ["",{"text":"El comienzo del sufrimiento
         infinito de ","bold":true,"color":"red"},{"text":"%player%","bold":true,"color":"dark_red"},{"text":"
         ha comenzado. ¡SE A IDO AL LIMBO!","bold":true,"color":"red"}]'
