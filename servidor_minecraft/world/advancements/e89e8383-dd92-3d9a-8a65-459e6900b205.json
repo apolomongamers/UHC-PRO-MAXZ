@@ -28,6 +28,7 @@
       "minecraft:taiga": "2024-06-27 23:44:10 +0000",
       "minecraft:birch_forest": "2024-06-27 23:40:01 +0000",
       "minecraft:river": "2024-06-27 23:39:57 +0000",
+      "minecraft:dripstone_caves": "2024-06-28 01:47:09 +0000",
       "minecraft:forest": "2024-06-28 01:18:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-27 23:39:15 +0000"
     },
@@ -312,6 +313,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-06-28 01:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-06-28 01:47:39 +0000"
     },
     "done": true
   },
@@ -874,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-06-28 01:37:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-06-28 01:13:08 +0000"
@@ -1184,6 +1197,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-06-28 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-28 01:37:55 +0000"
     },
     "done": true
   },
