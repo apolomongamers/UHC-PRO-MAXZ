@@ -109,7 +109,7 @@ worlds:
     worldborder: 500.0
     difficulty: HARD
   28dfffe5-5f12-4141-878b-93a652538e80:
-    worldborder: 1000.0
+    worldborder: 250.0
     difficulty: EASY
   9a111179-77c0-47d0-9501-368b17843ba9:
     worldborder: 500.0
