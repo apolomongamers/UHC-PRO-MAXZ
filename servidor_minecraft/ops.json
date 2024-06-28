@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "6f859744-252d-3687-a44b-b1a99b2976dd",
+    "name": "wis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "9f9f4305-4b08-3867-9698-2a4a738b1203",
     "name": "apolomongamers",
     "level": 4,
